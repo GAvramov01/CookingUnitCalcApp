@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UnitCalc App</string>
+    <string name="find_the_unit_to_convert">Find the Unit to Convert</string>
+    <string name="tablespoons">Tablespoons :</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="cup">Cup</string>
+    <string name="mililiters">Mililiters</string>
+    <string name="ouces">Ouces</string>
+    <string name="ounces">Ounces</string>
+    <string name="todo">TODO</string>
+    <string name="firsticon">firstIcon</string>
+    <string name="secondicon">secondIcon</string>
+    <string name="thirticon">thirtIcon</string>
+    <string name="fouthicon">fouthIcon</string>
+</resources>
